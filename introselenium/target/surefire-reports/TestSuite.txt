@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.451 s <<< FAILURE! - in TestSuite
+test(com.introselenium.Tests.Facebook_Test)  Time elapsed: 0.431 s  <<< FAILURE!
+java.lang.AssertionError: expected [true] but found [false]
+	at com.introselenium.Tests.Facebook_Test.test(Facebook_Test.java:26)
+
